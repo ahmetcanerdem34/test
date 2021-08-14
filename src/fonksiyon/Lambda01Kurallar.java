@@ -14,6 +14,7 @@ public class Lambda01Kurallar {
         // foreEach(), map(), filter(), reduce() gibi HOF'lar fonksiyonel interfaceler ile çalıştığı için
         // içerisinde Lambda fonksiyonları yazmak mümkündür.
         // Javada genelde bu gibi fonksiyonlar üzerinden Lambda ifadeleri kullanılmaktadır.
+        //yeni not
 
         List<Integer> liste = Arrays.asList(1,2,3,4,5);
         //bu diziniz içindeki elemanaları yazdırmak istiyorum
