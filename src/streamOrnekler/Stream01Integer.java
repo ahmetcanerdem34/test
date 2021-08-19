@@ -6,7 +6,7 @@ import java.util.List;
 public class Stream01Integer {
 
     public static void main(String[] args) {
-
+//deneme
         //collection oluşturalım ınteger tipinde olsun
         List<Integer> rakamlar = new ArrayList<>();
         rakamlar.add(5);
